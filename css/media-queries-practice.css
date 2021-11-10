@@ -5,3 +5,12 @@ Author: Your Name Here
 
 ----------------------------------------- */
 
+.row {
+    display: flex;
+    max-width: 100%;
+}
+
+.box1 {
+    width: 100%;
+    background-color: aqua;
+}
